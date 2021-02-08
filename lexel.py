@@ -1,4 +1,3 @@
-#!/usr/bin/python
 import xlrd
 import os
 import json
